@@ -1,0 +1,11 @@
+[2019-04-08 19:54:22] START
+[2019-04-08 20:23:42] CREATE basics.py: 0
+[2019-04-08 20:26:12] EDIT attendance/controllers/basics.py: 3
+[2019-04-08 20:30:24] CREATE basics/helloworld.html: 0
+[2019-04-08 20:31:49] EDIT attendance/views/basics/helloworld.html: 3
+[2019-04-08 20:35:38] EDIT attendance/views/basics/helloworld.html: 0
+[2019-04-08 20:36:58] EDIT attendance/views/basics/helloworld.html: 0
+[2019-04-08 20:38:59] EDIT attendance/views/basics/helloworld.html: 0
+[2019-04-08 20:59:09] EDIT attendance/models/db.py: 5
+[2019-04-08 20:59:30] EDIT attendance/models/db.py: 0
+[2019-04-08 21:12:38] EDIT attendance/models/db.py: 0
